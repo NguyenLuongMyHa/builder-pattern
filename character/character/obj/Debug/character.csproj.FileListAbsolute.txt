@@ -1,0 +1,9 @@
+D:\TKPMHDT\character\character\character\bin\Debug\character.exe.config
+D:\TKPMHDT\character\character\character\bin\Debug\character.exe
+D:\TKPMHDT\character\character\character\bin\Debug\character.pdb
+D:\TKPMHDT\character\character\character\obj\Debug\character.csprojAssemblyReference.cache
+D:\TKPMHDT\character\character\character\obj\Debug\character.Form1.resources
+D:\TKPMHDT\character\character\character\obj\Debug\character.Properties.Resources.resources
+D:\TKPMHDT\character\character\character\obj\Debug\character.csproj.GenerateResource.cache
+D:\TKPMHDT\character\character\character\obj\Debug\character.exe
+D:\TKPMHDT\character\character\character\obj\Debug\character.pdb
